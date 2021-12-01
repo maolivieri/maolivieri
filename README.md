@@ -25,7 +25,7 @@ My day-to-day comprise not only the tasks of a product owner but also managing t
 
 Even though I have never worked as a developer, I have a passion for coding, creating logic and developing effective code.
 
-My experience and knowledge in DevOps help me as a developer, in addition I am always looking into applying tests and CD/CI to achieve agile development.
+My experience and knowledge in DevOps help me as a developer, as well as, I am always looking into applying tests and CD/CI to achieve agile development.
 
 During my career I had the chance to work in several fields, including engineering, supply chain, software implementation and project management. This has helped me to think outside the box and makes it easier for me to learn new technologies and methods.
 
