@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
-I am currently working as a product owner of a series of applications focused at restaurants, bars and pubs. ([‎Vectron Systems (Victoria) Pty Ltd Apps on the App Store (apple.com)](https://apps.apple.com/au/developer/vectron-systems-victoria-pty-ltd/id1193822530) 
+I am currently working as a product owner of a series of applications focused on restaurants, bars and pubs. ([‎Vectron Systems Apps on the App Store](https://apps.apple.com/au/developer/vectron-systems-victoria-pty-ltd/id1193822530) 
 
 My day-to-day comprise not only the tasks of a product owner but also managing the team, managing the scrum, managing the app implementation and technical support to the customer.
 
@@ -25,9 +25,7 @@ My day-to-day comprise not only the tasks of a product owner but also managing t
 
 Even though I have never worked as a developer, I have a passion for coding, creating logic and developing effective code.
 
-My experience and knowledge in devOps helps me as a developer, in addition I am always looking into aplying tests and CD/CI to achieve an agile development.
-
-Durante minha carreira tive a chance de trabalhar em diversos ramos, inlcuindo engenharia, supply chain, implementacao de softwares e gerenciamento de projetos. Isso sempre me ajuda a pensar fora da caixa e facilita meu aprendizado em novas tecnologias e metodos.
+My experience and knowledge in DevOps help me as a developer, in addition I am always looking into applying tests and CD/CI to achieve agile development.
 
 During my career I had the chance to work in several fields, including engineering, supply chain, software implementation and project management. This has helped me to think outside the box and makes it easier for me to learn new technologies and methods.
 
@@ -38,7 +36,7 @@ If you want to chat or know a little more about me, get in touch using one of th
   <a href="whatsapp://send?phone=+61497803676" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/maolivieri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheus.olivieri@yahoo.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maolivieri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheusolivieri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
