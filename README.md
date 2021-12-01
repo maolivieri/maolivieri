@@ -33,8 +33,8 @@ If you want to chat or know a little more about me, get in touch using one of th
 
 
 <div> 
-  <a href="whatsapp://send?phone=+61497803676" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/maolivieri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/61497803676" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/maolivieri/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheus.olivieri@yahoo.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusolivieri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
@@ -49,19 +49,4 @@ If you want to chat or know a little more about me, get in touch using one of th
 <!--   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=maolivieri&show_icons=true&theme=github_dark " alt="matheusolivieri's stats"/> -->
 </p>
 
-<br><br>
-
-<!--
-**maolivieri/maolivieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
