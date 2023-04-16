@@ -10,24 +10,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
-I am currently working as a product owner of a series of applications focused on restaurants, bars and pubs. ([‎Vectron Systems Apps on the App Store](https://apps.apple.com/au/developer/vectron-systems-victoria-pty-ltd/id1193822530) 
+I have been working with tecnology since 2018, where I started as product owner and had the chance to work as scrum master, developer and everything in between.
 
-My day-to-day comprise not only the tasks of a product owner but also managing the team, managing the scrum, managing the app implementation and technical support to the customer.
+Nowadays, as a fullstack developer, I am working on a very exiting BMW project, where everyday I get more passionate about coding and building clever solutions.
 
-<!-- My day-to-day include:
-
-- Prioritization of tasks
-- Scoping features and logics
-- Team management
-- Manage the scrum
-- Coordinate app projects and implementation (from scope, training, setup and launch)
-- Technical support to customers -->
-
-Even though I have never worked as a developer, I have a passion for coding, creating logic and developing effective code.
-
-My experience and knowledge in DevOps help me as a developer, as well as, I am always looking into applying tests and CD/CI to achieve agile development.
-
-During my career I had the chance to work in several fields, including engineering, supply chain, software implementation and project management. This has helped me to think outside the box and makes it easier for me to learn new technologies and methods.
+More about me, is that during my career I had the chance to work in several fields, including engineering, supply chain, software implementation and project management. This has helped me to think outside the box and makes it easier for me to learn new technologies and methods.
 
 If you want to chat or know a little more about me, get in touch using one of the options below.
 
