@@ -10,14 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
-I have been working with tecnology since 2018, where I started as product owner and had the chance to work as scrum master, developer and everything in between.
-
-Nowadays, as a fullstack developer, I am working on a very exiting BMW project, where everyday I get more passionate about coding and building clever solutions.
-
-More about me, is that during my career I had the chance to work in several fields, including engineering, supply chain, software implementation and project management. This has helped me to think outside the box and makes it easier for me to learn new technologies and methods.
-
-If you want to chat or know a little more about me, get in touch using one of the options below.
-
 
 <div> 
   <a href="https://wa.me/61497803676" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
